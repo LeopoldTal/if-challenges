@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Graphics</key>
+        <dict>
+            <key>3</key>
+            <string>Figures/table.png</string>
+            <key>4</key>
+            <string>Figures/window_closed.png</string>
+            <key>5</key>
+            <string>Figures/window_open.png</string>
+            <key>6</key>
+            <string>Figures/me.png</string>
+        </dict>
+    </dict>
+</plist>
