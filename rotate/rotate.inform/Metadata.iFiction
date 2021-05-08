@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+    <story>
+        <identification>
+            <ifid>0785D388-2F2D-45A2-BB60-7E4344BB5BF3</ifid>
+            <format>glulx</format>
+        </identification>
+        <bibliographic>
+            <title>Rotating House Challenge</title>
+            <author>Leopold Tal</author>
+            <headline>An IF Challenge</headline>
+            <genre>Other</genre>
+            <firstpublished>2021</firstpublished>
+            <description>Code up the white house from Infocom's Zork I and the four plots of land around it. In the attic, add a turnable wheel mounted in the floor. Whenever the player-character turns the wheel, the entire house rotates 90°, changing all directional travel inside the house and where the front and back doors connect to.</description>
+            <language>en</language>
+            <group>Inform</group>
+        </bibliographic>
+        <releases>
+            <attached>
+                <release>
+                    <releasedate>2021-05-09</releasedate>
+                    <version>1</version>
+                    <compiler>Inform 7</compiler>
+                    <compilerversion>6M62</compilerversion>
+                </release>
+            </attached>
+        </releases>
+        <colophon>
+            <generator>Inform 7</generator>
+            <generatorversion>6M62</generatorversion>
+            <originated>2021-05-09</originated>
+        </colophon>
+        <glulx>
+            <serial>210509</serial>
+            <release>1</release>
+            <compiler>Inform 7 build 6M62</compiler>
+        </glulx>
+    </story>
+</ifindex>
