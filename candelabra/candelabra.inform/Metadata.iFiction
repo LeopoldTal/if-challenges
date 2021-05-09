@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+    <story>
+        <identification>
+            <ifid>BA613696-D791-4B8F-B90A-4A50B4A33D3C</ifid>
+            <format>glulx</format>
+        </identification>
+        <bibliographic>
+            <title>Candelabra Challenge</title>
+            <author>Leopold Tal</author>
+            <headline>An IF Challenge</headline>
+            <genre>Other</genre>
+            <firstpublished>2021</firstpublished>
+            <description>A non-portable candelabra with five candles attached to it. The description of the candelabra itself is a succinct summary of candles' lit/unlit status, with an emphasis on what's lit.</description>
+            <language>en</language>
+            <group>Inform</group>
+        </bibliographic>
+        <releases>
+            <attached>
+                <release>
+                    <releasedate>2021-05-09</releasedate>
+                    <version>1</version>
+                    <compiler>Inform 7</compiler>
+                    <compilerversion>6M62</compilerversion>
+                </release>
+            </attached>
+        </releases>
+        <colophon>
+            <generator>Inform 7</generator>
+            <generatorversion>6M62</generatorversion>
+            <originated>2021-05-09</originated>
+        </colophon>
+        <glulx>
+            <serial>210509</serial>
+            <release>1</release>
+            <compiler>Inform 7 build 6M62</compiler>
+        </glulx>
+    </story>
+</ifindex>
